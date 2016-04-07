@@ -1,0 +1,9 @@
+C:\Users\max\Documents\School\3314\SE3314Assignment1\SE3314Assignment1\bin\Debug\SE3314Assignment1.exe.config
+C:\Users\max\Documents\School\3314\SE3314Assignment1\SE3314Assignment1\bin\Debug\SE3314Assignment1.exe
+C:\Users\max\Documents\School\3314\SE3314Assignment1\SE3314Assignment1\bin\Debug\SE3314Assignment1.pdb
+C:\Users\max\Documents\School\3314\SE3314Assignment1\SE3314Assignment1\obj\Debug\SE3314Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\max\Documents\School\3314\SE3314Assignment1\SE3314Assignment1\obj\Debug\SE3314Assignment1.View.resources
+C:\Users\max\Documents\School\3314\SE3314Assignment1\SE3314Assignment1\obj\Debug\SE3314Assignment1.Properties.Resources.resources
+C:\Users\max\Documents\School\3314\SE3314Assignment1\SE3314Assignment1\obj\Debug\SE3314Assignment1.csproj.GenerateResource.Cache
+C:\Users\max\Documents\School\3314\SE3314Assignment1\SE3314Assignment1\obj\Debug\SE3314Assignment1.exe
+C:\Users\max\Documents\School\3314\SE3314Assignment1\SE3314Assignment1\obj\Debug\SE3314Assignment1.pdb
